@@ -1,0 +1,14 @@
+﻿using DalilAcademy.Core.DTOs;
+
+namespace DalilAcademy.Core.Service
+{
+    public interface IEnrollmentService
+    {
+        Task<List<EnrollmentResponseDto>> GetAllAsync();
+        Task<EnrollmentResponseDto> GetByIdAsync(int id);
+        Task<EnrollmentResponseDto> CreateAsync(CreateEnrollmentDto dto);
+        Task UpdateAsync(int id, UpdateEnrollmentDto dto);
+        Task DeleteAsync(int id);
+        Task<List<StudentDto>> GetPaidStudentsByCourseAsync(int courseId);
+    }
+}

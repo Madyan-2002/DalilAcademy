@@ -8,4 +8,5 @@ namespace DalilAcademy.Core.Exceptions
     public class ConflictException(string message) : Exception(message);
     public class InvalidFileException(string message) : Exception(message);
     public class BadRequestException(string message) : Exception(message);
+    public class PaymentFailedException(string message) : Exception(message);
 }

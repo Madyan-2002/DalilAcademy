@@ -1,4 +1,5 @@
 ﻿using DalilAcademy.Core.DTOs;
+using DalilAcademy.Core.Entites;
 using DalilAcademy.Core.Exceptions;
 using DalilAcademy.Core.Mappings;
 using DalilAcademy.Core.Repository;
@@ -31,10 +32,9 @@ namespace DalilAcademy.Infra.Service
             return student.ToDto();
         }
 
-        public async Task<List<CourseResponseDto>> GetStudentCoursesAsync(int studentId)
+        public async Task<List<CourseResponseDto>> GetMyCoursesAsync(int studentId)
         {
-            return await repository.GetCoursesByStudentIdAsync(studentId)
-                ?? throw new NotFoundException($"Student with id {studentId} was not found.");
+            return await repository.GetCoursesByStudentIdAsync(studentId, paidOnly: true) ?? [];
         }
 
         public async Task<StudentDto> CreateStudentAsync(CreateStudentDto dto)

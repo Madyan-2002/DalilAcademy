@@ -15,6 +15,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi;
 using System.Text;
+using DalilAcademy.Core.Payments;
+using DalilAcademy.Infra.Payments;
+using Microsoft.Extensions.Options;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -74,6 +77,18 @@ builder.Services.AddSingleton<IImageService, LocalImageService>();
 builder.Services.AddHttpClient<ICurrencyService, CurrencyService>(client =>
 {
     client.BaseAddress = new Uri($"{builder.Configuration["ExchangeRate:BaseUrl"]}{builder.Configuration["ExchangeRate:ApiKey"]}/");
+});
+
+builder.Services.AddScoped<IEnrollmentRepository, EnrollmentRepository>();
+builder.Services.AddScoped<IEnrollmentService, EnrollmentService>();
+builder.Services.AddScoped<IPaymentRepository, PaymentRepository>();
+builder.Services.AddScoped<IPaymentService, PaymentService>();
+
+builder.Services.Configure<PayPalSettings>(builder.Configuration.GetSection("PayPal"));
+builder.Services.AddHttpClient<IPaymentGateway, PayPalPaymentGateway>((sp, client) =>
+{
+    var s = sp.GetRequiredService<IOptions<PayPalSettings>>().Value;
+    client.BaseAddress = new Uri(s.BaseUrl.TrimEnd('/') + "/");
 });
 
 builder.Services

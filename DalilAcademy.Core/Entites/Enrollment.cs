@@ -12,7 +12,8 @@ namespace DalilAcademy.Core.Entites
         public int CourseId { get; set; } // Foreign key to the Course entity
         public Course? Course { get; set; } // Navigation property to the Course entity
         public DateTime EnrolledAt { get; set; } // Date of enrollment
-       
- 
+        public EnrollmentStatus Status { get; set; } = EnrollmentStatus.Pending;
+        public List<Payment> Payments { get; set; } = [];
+
     }
 }

@@ -10,3 +10,4 @@ D:\Personal\DalilAcademy\DalilAcademy.Core\obj\Debug\net10.0\refint\DalilAcademy
 D:\Personal\DalilAcademy\DalilAcademy.Core\obj\Debug\net10.0\DalilAcademy.Core.pdb
 D:\Personal\DalilAcademy\DalilAcademy.Core\obj\Debug\net10.0\ref\DalilAcademy.Core.dll
 D:\Personal\DalilAcademy\DalilAcademy.Core\obj\Debug\net10.0\DalilAcademy.Core.csproj.AssemblyReference.cache
+D:\Personal\DalilAcademy\DalilAcademy.Core\obj\Debug\net10.0\DalilAcademy.Core.sourcelink.json

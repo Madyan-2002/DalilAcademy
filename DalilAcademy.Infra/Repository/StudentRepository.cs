@@ -38,12 +38,13 @@ namespace DalilAcademy.Infra.Repository
             return (items, total);
         }
 
-        public async Task<List<CourseResponseDto>?> GetCoursesByStudentIdAsync(int studentId)
+        public async Task<List<CourseResponseDto>?> GetCoursesByStudentIdAsync(int studentId, bool paidOnly = false)
         {
             return await db.Students
                 .AsNoTracking()
                 .Where(s => s.Id == studentId)
                 .Select(s => s.Enrollments
+                    .Where(e => !paidOnly || e.Status == EnrollmentStatus.Paid)
                     .Select(e => new CourseResponseDto(
                         e.Course.Id,
                         e.Course.Title,

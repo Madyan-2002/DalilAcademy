@@ -13,3 +13,4 @@ D:\Personal\DalilAcademy\DalilAcademy.Infra\obj\Debug\net10.0\DalilAcademy.Infra
 D:\Personal\DalilAcademy\DalilAcademy.Infra\obj\Debug\net10.0\refint\DalilAcademy.Infra.dll
 D:\Personal\DalilAcademy\DalilAcademy.Infra\obj\Debug\net10.0\DalilAcademy.Infra.pdb
 D:\Personal\DalilAcademy\DalilAcademy.Infra\obj\Debug\net10.0\ref\DalilAcademy.Infra.dll
+D:\Personal\DalilAcademy\DalilAcademy.Infra\obj\Debug\net10.0\DalilAcademy.Infra.sourcelink.json

@@ -1,4 +1,5 @@
-﻿using DalilAcademy.Core.DTOs;
+﻿
+using DalilAcademy.Core.DTOs;
 using DalilAcademy.Core.Entites;
 using DalilAcademy.Core.Service;
 using DalilAcademy.Core.Storage;
@@ -7,10 +8,10 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DalilAcademy.API.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    [Authorize]
-    public class CoursesController(ICourseService courseService , IImageService images) : ControllerBase
+    public class CoursesController(
+        ICourseService courseService,
+        IImageService images,
+        IEnrollmentService enrollmentService) : ControllerBase
     {
         // GET /api/courses?page=1&pageSize=10&minPrice=100&maxPrice=500
         [AllowAnonymous]
@@ -28,8 +29,8 @@ namespace DalilAcademy.API.Controllers
             => Ok(await courseService.CountAsync());
 
         // GET /api/courses/1
-        [HttpGet("{id:int}")]
         [AllowAnonymous]
+        [HttpGet("{id:int}")]
         public async Task<ActionResult<CourseResponseDto>> GetById(int id)
             => Ok(await courseService.GetByIdAsync(id));
 
@@ -57,15 +58,27 @@ namespace DalilAcademy.API.Controllers
             return NoContent();
         }
 
+        // GET /api/courses/upload-image
         [HttpPost]
         [Route("upload-image")]
         [Authorize(Roles = Roles.Admin)]
-
         public async Task<IActionResult> UploadImage(IFormFile file)
         {
             await using var stream = file.OpenReadStream();
-            var url = await images.SaveCourseImageAsync(stream , file.FileName, file.Length);
+
+            var url = await images.SaveCourseImageAsync(
+                stream,
+                file.FileName,
+                file.Length);
+
             return Ok(new { ImageUrl = url });
         }
+
+        // GET /api/courses/1/students
+        // Get paid students in a specific course
+        [HttpGet("{courseId:int}/students")]
+        [Authorize(Roles = Roles.Admin)]
+        public async Task<ActionResult<List<StudentDto>>> GetPaidStudents(int courseId)
+            => Ok(await enrollmentService.GetPaidStudentsByCourseAsync(courseId));
     }
 }

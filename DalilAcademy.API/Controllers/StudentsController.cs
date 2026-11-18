@@ -22,7 +22,7 @@ namespace DalilAcademy.API.Controllers
         // GET /api/students/1/courses
         [HttpGet("{id:int}/courses")]
         public async Task<ActionResult<List<CourseResponseDto>>> GetCourses(int id)
-            => Ok(await studentService.GetStudentCoursesAsync(id));
+            => Ok(await studentService.GetMyCoursesAsync(id));
 
         [HttpPost]
         public async Task<ActionResult<StudentDto>> Create(CreateStudentDto dto)

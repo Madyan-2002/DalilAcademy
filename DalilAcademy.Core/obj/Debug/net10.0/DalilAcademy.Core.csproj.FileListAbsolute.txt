@@ -1,0 +1,12 @@
+D:\Personal\DalilAcademy\DalilAcademy.Core\bin\Debug\net10.0\DalilAcademy.Core.deps.json
+D:\Personal\DalilAcademy\DalilAcademy.Core\bin\Debug\net10.0\DalilAcademy.Core.dll
+D:\Personal\DalilAcademy\DalilAcademy.Core\bin\Debug\net10.0\DalilAcademy.Core.pdb
+D:\Personal\DalilAcademy\DalilAcademy.Core\obj\Debug\net10.0\DalilAcademy.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\DalilAcademy\DalilAcademy.Core\obj\Debug\net10.0\DalilAcademy.Core.AssemblyInfoInputs.cache
+D:\Personal\DalilAcademy\DalilAcademy.Core\obj\Debug\net10.0\DalilAcademy.Core.AssemblyInfo.cs
+D:\Personal\DalilAcademy\DalilAcademy.Core\obj\Debug\net10.0\DalilAcademy.Core.csproj.CoreCompileInputs.cache
+D:\Personal\DalilAcademy\DalilAcademy.Core\obj\Debug\net10.0\DalilAcademy.Core.dll
+D:\Personal\DalilAcademy\DalilAcademy.Core\obj\Debug\net10.0\refint\DalilAcademy.Core.dll
+D:\Personal\DalilAcademy\DalilAcademy.Core\obj\Debug\net10.0\DalilAcademy.Core.pdb
+D:\Personal\DalilAcademy\DalilAcademy.Core\obj\Debug\net10.0\ref\DalilAcademy.Core.dll
+D:\Personal\DalilAcademy\DalilAcademy.Core\obj\Debug\net10.0\DalilAcademy.Core.csproj.AssemblyReference.cache

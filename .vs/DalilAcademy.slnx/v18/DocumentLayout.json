@@ -1,0 +1,1056 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Personal\\DalilAcademy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\service\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\service\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\storage\\localimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\storage\\localimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\storage\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\storage\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13782533-D536-BB49-11B4-2E6BDBC686C8}|DalilAcademy.API\\DalilAcademy.API.csproj|d:\\personal\\dalilacademy\\dalilacademy.api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13782533-D536-BB49-11B4-2E6BDBC686C8}|DalilAcademy.API\\DalilAcademy.API.csproj|solutionrelative:dalilacademy.api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\dalilacademy.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\dalilacademy.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13782533-D536-BB49-11B4-2E6BDBC686C8}|DalilAcademy.API\\DalilAcademy.API.csproj|d:\\personal\\dalilacademy\\dalilacademy.api\\middleware\\globalexceptionhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13782533-D536-BB49-11B4-2E6BDBC686C8}|DalilAcademy.API\\DalilAcademy.API.csproj|solutionrelative:dalilacademy.api\\middleware\\globalexceptionhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\exceptions\\appexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\exceptions\\appexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\mappings\\coursemappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\mappings\\coursemappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\data\\configuration\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\data\\configuration\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\entites\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\entites\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\security\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\security\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\security\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\security\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13782533-D536-BB49-11B4-2E6BDBC686C8}|DalilAcademy.API\\DalilAcademy.API.csproj|d:\\personal\\dalilacademy\\dalilacademy.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13782533-D536-BB49-11B4-2E6BDBC686C8}|DalilAcademy.API\\DalilAcademy.API.csproj|solutionrelative:dalilacademy.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13782533-D536-BB49-11B4-2E6BDBC686C8}|DalilAcademy.API\\DalilAcademy.API.csproj|d:\\personal\\dalilacademy\\dalilacademy.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13782533-D536-BB49-11B4-2E6BDBC686C8}|DalilAcademy.API\\DalilAcademy.API.csproj|solutionrelative:dalilacademy.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\dtos\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\dtos\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\validators\\registerrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\validators\\registerrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\validators\\createcoursedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\validators\\createcoursedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\security\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\security\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Migrations\\20261118093441_AddUserIdToStudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DalilAcademy.Infra\\Migrations\\20261118093441_AddUserIdToStudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\data\\configuration\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\data\\configuration\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\service\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\service\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13782533-D536-BB49-11B4-2E6BDBC686C8}|DalilAcademy.API\\DalilAcademy.API.csproj|d:\\personal\\dalilacademy\\dalilacademy.api\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13782533-D536-BB49-11B4-2E6BDBC686C8}|DalilAcademy.API\\DalilAcademy.API.csproj|solutionrelative:dalilacademy.api\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Roaming\\Microsoft\\UserSecrets\\b4b49ba3-0b50-47ef-805a-0b90a070a040\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13782533-D536-BB49-11B4-2E6BDBC686C8}|DalilAcademy.API\\DalilAcademy.API.csproj|d:\\personal\\dalilacademy\\dalilacademy.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13782533-D536-BB49-11B4-2E6BDBC686C8}|DalilAcademy.API\\DalilAcademy.API.csproj|solutionrelative:dalilacademy.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13782533-D536-BB49-11B4-2E6BDBC686C8}|DalilAcademy.API\\DalilAcademy.API.csproj|d:\\personal\\dalilacademy\\dalilacademy.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13782533-D536-BB49-11B4-2E6BDBC686C8}|DalilAcademy.API\\DalilAcademy.API.csproj|solutionrelative:dalilacademy.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\service\\icurrencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\service\\icurrencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\dtos\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\dtos\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\security\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\security\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\security\\bcryptpasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\security\\bcryptpasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\data\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\data\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13782533-D536-BB49-11B4-2E6BDBC686C8}|DalilAcademy.API\\DalilAcademy.API.csproj|d:\\personal\\dalilacademy\\dalilacademy.api\\dalilacademy.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13782533-D536-BB49-11B4-2E6BDBC686C8}|DalilAcademy.API\\DalilAcademy.API.csproj|solutionrelative:dalilacademy.api\\dalilacademy.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\dalilacademy.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\dalilacademy.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13782533-D536-BB49-11B4-2E6BDBC686C8}|DalilAcademy.API\\DalilAcademy.API.csproj|d:\\personal\\dalilacademy\\dalilacademy.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13782533-D536-BB49-11B4-2E6BDBC686C8}|DalilAcademy.API\\DalilAcademy.API.csproj|solutionrelative:dalilacademy.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\repository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\repository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\dtos\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\dtos\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\validators\\studentvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\validators\\studentvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\mappings\\studentmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\mappings\\studentmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\data\\configuration\\enrollmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\data\\configuration\\enrollmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\data\\configuration\\instrctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\data\\configuration\\instrctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13782533-D536-BB49-11B4-2E6BDBC686C8}|DalilAcademy.API\\DalilAcademy.API.csproj|d:\\personal\\dalilacademy\\dalilacademy.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13782533-D536-BB49-11B4-2E6BDBC686C8}|DalilAcademy.API\\DalilAcademy.API.csproj|solutionrelative:dalilacademy.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\migrations\\20261102184602_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\migrations\\20261102184602_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\entites\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\entites\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Migrations\\20261102181644_AddressStudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DalilAcademy.Infra\\Migrations\\20261102181644_AddressStudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\obj\\Debug\\net10.0\\d1amuxho.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DalilAcademy.Infra\\obj\\Debug\\net10.0\\d1amuxho.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|d:\\personal\\dalilacademy\\dalilacademy.core\\entites\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC78231-F29B-4AC0-A8DE-A48175A2A81C}|DalilAcademy.Core\\DalilAcademy.Core.csproj|solutionrelative:dalilacademy.core\\entites\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\migrations\\20261107120725_adduniquecoursetitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\migrations\\20261107120725_adduniquecoursetitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\migrations\\20261110120441_addusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\migrations\\20261110120441_addusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|d:\\personal\\dalilacademy\\dalilacademy.infra\\migrations\\20261112142518_addcourseimageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1856D3-9023-4EED-8D26-AA805E730083}|DalilAcademy.Infra\\DalilAcademy.Infra.csproj|solutionrelative:dalilacademy.infra\\migrations\\20261112142518_addcourseimageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Service\\ICourseService.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\Service\\ICourseService.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Service\\ICourseService.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\Service\\ICourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:51:59.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Service\\IAuthService.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\Service\\IAuthService.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Service\\IAuthService.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\Service\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:41:07.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Storage\\IImageService.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\Storage\\IImageService.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Storage\\IImageService.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\Storage\\IImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:39:59.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocalImageService.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Storage\\LocalImageService.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Storage\\LocalImageService.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Storage\\LocalImageService.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Storage\\LocalImageService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:43:48.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DalilAcademy.Infra.csproj",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\DalilAcademy.Infra.csproj",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\DalilAcademy.Infra.csproj",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\DalilAcademy.Infra.csproj",
+              "RelativeToolTip": "DalilAcademy.Infra\\DalilAcademy.Infra.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-28T16:23:25.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.API\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.API\\Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.API\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "DalilAcademy.API\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T12:11:49.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Service\\IStudentService.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\Service\\IStudentService.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Service\\IStudentService.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\Service\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T22:04:27.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalExceptionHandle.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.API\\Middleware\\GlobalExceptionHandle.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.API\\Middleware\\GlobalExceptionHandle.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.API\\Middleware\\GlobalExceptionHandle.cs",
+              "RelativeToolTip": "DalilAcademy.API\\Middleware\\GlobalExceptionHandle.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T14:50:16.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppExceptions.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Exceptions\\AppExceptions.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\Exceptions\\AppExceptions.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Exceptions\\AppExceptions.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\Exceptions\\AppExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T14:45:18.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Service\\CourseService.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Service\\CourseService.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Service\\CourseService.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Service\\CourseService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwDEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:51:35.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseMappings.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Mappings\\CourseMappings.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\Mappings\\CourseMappings.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Mappings\\CourseMappings.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\Mappings\\CourseMappings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T10:25:47.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\DTOs\\CourseDto.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\DTOs\\CourseDto.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\DTOs\\CourseDto.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\DTOs\\CourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T08:44:08.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CourseConfiguration.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Data\\Configuration\\CourseConfiguration.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Data\\Configuration\\CourseConfiguration.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Data\\Configuration\\CourseConfiguration.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Data\\Configuration\\CourseConfiguration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T19:21:10.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Entites\\Course.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\Entites\\Course.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Entites\\Course.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\Entites\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T18:14:05.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Security\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Security\\JwtTokenService.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Security\\JwtTokenService.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Security\\JwtTokenService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:12:15.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtSetting.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Security\\JwtSetting.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Security\\JwtSetting.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Security\\JwtSetting.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Security\\JwtSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T09:21:17.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.API\\Program.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.API\\Program.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.API\\Program.cs",
+              "RelativeToolTip": "DalilAcademy.API\\Program.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAUwH4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T11:03:06.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DalilAcademy.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:54:53.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Service\\AuthService.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Service\\AuthService.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Service\\AuthService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:46:30.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\DTOs\\StudentDto.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\DTOs\\StudentDto.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\DTOs\\StudentDto.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\DTOs\\StudentDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T16:13:39.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Security\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\Security\\IPasswordHasher.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Security\\IPasswordHasher.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\Security\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T12:21:30.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\DTOs\\Auth.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\DTOs\\Auth.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\DTOs\\Auth.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\DTOs\\Auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:43:26.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RegisterRequestDtoValidator.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Validators\\RegisterRequestDtoValidator.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\Validators\\RegisterRequestDtoValidator.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Validators\\RegisterRequestDtoValidator.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\Validators\\RegisterRequestDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T09:51:09.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T10:51:00.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\Repository\\IUserRepository.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T10:24:00.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateCourseDtoValidator.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Validators\\CreateCourseDtoValidator.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\Validators\\CreateCourseDtoValidator.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Validators\\CreateCourseDtoValidator.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\Validators\\CreateCourseDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T14:04:26.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Repository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\Repository\\IStudentRepository.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Repository\\IStudentRepository.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\Repository\\IStudentRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T22:02:02.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20261118093441_AddUserIdToStudent.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Migrations\\20261118093441_AddUserIdToStudent.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Migrations\\20261118093441_AddUserIdToStudent.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Migrations\\20261118093441_AddUserIdToStudent.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Migrations\\20261118093441_AddUserIdToStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T09:34:41.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Entites\\Student.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\Entites\\Student.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Entites\\Student.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\Entites\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T08:56:46.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CurrencyService.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Service\\CurrencyService.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Service\\CurrencyService.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Service\\CurrencyService.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Service\\CurrencyService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T07:48:59.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\UserSecrets\\b4b49ba3-0b50-47ef-805a-0b90a070a040\\secrets.json",
+              "ToolTip": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\UserSecrets\\b4b49ba3-0b50-47ef-805a-0b90a070a040\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-14T07:34:31.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.API\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.API\\Controllers\\CurrencyController.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.API\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "DalilAcademy.API\\Controllers\\CurrencyController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T08:09:20.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.API\\appsettings.json",
+              "RelativeDocumentMoniker": "DalilAcademy.API\\appsettings.json",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.API\\appsettings.json",
+              "RelativeToolTip": "DalilAcademy.API\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-10T09:03:35.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StudentConfiguration.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Data\\Configuration\\StudentConfiguration.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Data\\Configuration\\StudentConfiguration.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Data\\Configuration\\StudentConfiguration.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Data\\Configuration\\StudentConfiguration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA0wBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T19:53:05.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Repository\\StudentRepository.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T22:06:16.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DalilAcademy.API\\appsettings.Development.json",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.API\\appsettings.Development.json",
+              "RelativeToolTip": "DalilAcademy.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-14T07:38:43.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\DTOs\\Currency.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\DTOs\\Currency.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\DTOs\\Currency.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\DTOs\\Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T07:41:28.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ICurrencyService.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Service\\ICurrencyService.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\Service\\ICurrencyService.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Service\\ICurrencyService.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\Service\\ICurrencyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T07:47:02.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Service\\StudentService.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Service\\StudentService.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Service\\StudentService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADgvx8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T22:09:12.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20261112142518_AddCourseImageUrl.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Migrations\\20261112142518_AddCourseImageUrl.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Migrations\\20261112142518_AddCourseImageUrl.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Migrations\\20261112142518_AddCourseImageUrl.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Migrations\\20261112142518_AddCourseImageUrl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T14:25:18.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Repository\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Repository\\CourseRepository.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Repository\\CourseRepository.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Repository\\CourseRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAEwBsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:55:37.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BcryptPasswordHasher.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Security\\BcryptPasswordHasher.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Security\\BcryptPasswordHasher.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Security\\BcryptPasswordHasher.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Security\\BcryptPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:02:08.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Security\\ITokenService.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\Security\\ITokenService.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Security\\ITokenService.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\Security\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:08:53.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20261110120441_AddUsers.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Migrations\\20261110120441_AddUsers.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Migrations\\20261110120441_AddUsers.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Migrations\\20261110120441_AddUsers.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Migrations\\20261110120441_AddUsers.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T12:04:42.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Data\\Configuration\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Data\\Configuration\\UserConfiguration.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Data\\Configuration\\UserConfiguration.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Data\\Configuration\\UserConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T11:27:48.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DalilAcademy.API.csproj",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.API\\DalilAcademy.API.csproj",
+              "RelativeDocumentMoniker": "DalilAcademy.API\\DalilAcademy.API.csproj",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.API\\DalilAcademy.API.csproj",
+              "RelativeToolTip": "DalilAcademy.API\\DalilAcademy.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-28T12:00:54.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T09:12:54.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Entites\\User.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\Entites\\User.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Entites\\User.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\Entites\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T10:17:46.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DalilAcademy.Core.csproj",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\DalilAcademy.Core.csproj",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\DalilAcademy.Core.csproj",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\DalilAcademy.Core.csproj",
+              "RelativeToolTip": "DalilAcademy.Core\\DalilAcademy.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-10T09:01:53.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.API\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.API\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.API\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "DalilAcademy.API\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T22:18:09.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Repository\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\Repository\\ICourseRepository.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Repository\\ICourseRepository.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\Repository\\ICourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:48:58.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "pageResult.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\DTOs\\pageResult.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\DTOs\\pageResult.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\DTOs\\pageResult.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\DTOs\\pageResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T18:10:48.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "StudentValidators.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Validators\\StudentValidators.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\Validators\\StudentValidators.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Validators\\StudentValidators.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\Validators\\StudentValidators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T16:14:28.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "StudentMappings.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Mappings\\StudentMappings.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\Mappings\\StudentMappings.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Mappings\\StudentMappings.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\Mappings\\StudentMappings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T16:15:15.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20261107120725_AddUniqueCourseTitle.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Migrations\\20261107120725_AddUniqueCourseTitle.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Migrations\\20261107120725_AddUniqueCourseTitle.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Migrations\\20261107120725_AddUniqueCourseTitle.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Migrations\\20261107120725_AddUniqueCourseTitle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T12:07:25.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "InstrctorConfiguration.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Data\\Configuration\\InstrctorConfiguration.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Data\\Configuration\\InstrctorConfiguration.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Data\\Configuration\\InstrctorConfiguration.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Data\\Configuration\\InstrctorConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T20:01:25.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "EnrollmentConfiguration.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Data\\Configuration\\EnrollmentConfiguration.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Data\\Configuration\\EnrollmentConfiguration.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Data\\Configuration\\EnrollmentConfiguration.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Data\\Configuration\\EnrollmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T19:38:17.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DalilAcademy.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DalilAcademy.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-02T19:05:55.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20261102184602_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Migrations\\20261102184602_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Migrations\\20261102184602_InitialCreate.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Migrations\\20261102184602_InitialCreate.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Migrations\\20261102184602_InitialCreate.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T18:46:02.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20261102181644_AddressStudent.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Migrations\\20261102181644_AddressStudent.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\Migrations\\20261102181644_AddressStudent.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\Migrations\\20261102181644_AddressStudent.cs",
+              "RelativeToolTip": "DalilAcademy.Infra\\Migrations\\20261102181644_AddressStudent.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T18:16:44.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Entites\\Instructor.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\Entites\\Instructor.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Entites\\Instructor.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\Entites\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T08:31:04.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "d1amuxho.sql",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\obj\\Debug\\net10.0\\d1amuxho.sql",
+              "RelativeDocumentMoniker": "DalilAcademy.Infra\\obj\\Debug\\net10.0\\d1amuxho.sql",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Infra\\obj\\Debug\\net10.0\\d1amuxho.sql",
+              "RelativeToolTip": "DalilAcademy.Infra\\obj\\Debug\\net10.0\\d1amuxho.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-01T20:21:31.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Entites\\Enrollment.cs",
+              "RelativeDocumentMoniker": "DalilAcademy.Core\\Entites\\Enrollment.cs",
+              "ToolTip": "D:\\Personal\\DalilAcademy\\DalilAcademy.Core\\Entites\\Enrollment.cs",
+              "RelativeToolTip": "DalilAcademy.Core\\Entites\\Enrollment.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T09:00:12.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

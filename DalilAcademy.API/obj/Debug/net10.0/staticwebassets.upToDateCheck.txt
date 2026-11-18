@@ -1,0 +1,2 @@
+wwwroot\images\courses\28048dd5-4ecf-4f67-9e13-ecf6f535d7ec.jpg
+wwwroot\images\moon.jpg
